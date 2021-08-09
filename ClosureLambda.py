@@ -6,7 +6,6 @@ def foo(y):
     
 print (foo(1)(2))
 
-
 #Python Lambda
 foo = lambda y : (lambda x : x + y)
 
